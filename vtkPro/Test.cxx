@@ -27,6 +27,10 @@
 
 //sıla
 
+
+
+//sssslklk
+
 namespace
 {
 	void CreatePolyData(vtkSmartPointer<vtkPolyData> polydata);
