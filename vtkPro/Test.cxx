@@ -34,6 +34,9 @@
 //ddd/
 //ddd
 
+
+//bu nedir
+
 namespace
 {
 	void CreatePolyData(vtkSmartPointer<vtkPolyData> polydata);
